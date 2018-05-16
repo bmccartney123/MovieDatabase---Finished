@@ -1,0 +1,9 @@
+C:\Users\csf16caa\Desktop\MovieDatabase - Partial\.vs\MovieDatabase\lut\0\b\MovieDatabaseTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\csf16caa\Desktop\MovieDatabase - Partial\.vs\MovieDatabase\lut\0\b\MovieDatabaseTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\csf16caa\Desktop\MovieDatabase - Partial\.vs\MovieDatabase\lut\0\b\MovieDatabaseTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\csf16caa\Desktop\MovieDatabase - Partial\.vs\MovieDatabase\lut\0\b\MovieDatabaseTestProject\bin\Debug\MovieDatabaseTestProject.dll
+C:\Users\csf16caa\Desktop\MovieDatabase - Partial\.vs\MovieDatabase\lut\0\b\MovieDatabaseTestProject\bin\Debug\MovieDatabaseTestProject.pdb
+C:\Users\csf16caa\Desktop\MovieDatabase - Partial\.vs\MovieDatabase\lut\0\i\MovieDatabaseTestProject\Debug\MovieDatabaseTestProject.csprojResolveAssemblyReference.cache
+C:\Users\csf16caa\Desktop\MovieDatabase - Partial\.vs\MovieDatabase\lut\0\i\MovieDatabaseTestProject\Debug\MovieDatabaseTestProject.csproj.CoreCompileInputs.cache
+C:\Users\csf16caa\Desktop\MovieDatabase - Partial\.vs\MovieDatabase\lut\0\i\MovieDatabaseTestProject\Debug\MovieDatabaseTestProject.dll
+C:\Users\csf16caa\Desktop\MovieDatabase - Partial\.vs\MovieDatabase\lut\0\i\MovieDatabaseTestProject\Debug\MovieDatabaseTestProject.pdb
